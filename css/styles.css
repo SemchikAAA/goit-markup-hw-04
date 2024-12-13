@@ -94,7 +94,7 @@ img {
 
 .nav-item-link.current {
   position: relative;
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .nav-item-link.current::after {
@@ -154,6 +154,7 @@ img {
     ),
     url(../images/solutions/hero-background.jpg);
   background-repeat: no-repeat;
+  background-position: center;
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
@@ -354,7 +355,7 @@ img {
   background-color: #404bbf;
 }
 .social-icon {
-  fill: #fff;
+  fill: #f4f4fd;
 }
 /* #endregion Our Team */
 
